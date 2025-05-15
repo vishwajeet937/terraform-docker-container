@@ -53,6 +53,6 @@ terraform destroy -no-color | tee destroy_log.txt
 Type *yes* when prompted.
 
 
-Author
+### Author
 Koppala Ajith Kumar Reddy
 DevOps Intern
