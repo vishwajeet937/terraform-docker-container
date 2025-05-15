@@ -32,7 +32,7 @@ Provision a **local Docker container** using **Terraform** to understand Infrast
 
 ---
 ### Clone the Repo
-git clone https://github.com/AJITH10000/terraform-docker-container.git
+git clone https://github.com/vishwajeet937/myrepo.git
 
 cd terraform-docker-container
 
@@ -58,5 +58,5 @@ Type *yes* when prompted.
 
 
 ### Author
-Koppala Ajith Kumar Reddy
+vishwajeet Kumar
 DevOps Intern
