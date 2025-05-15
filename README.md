@@ -31,6 +31,9 @@ Provision a **local Docker container** using **Terraform** to understand Infrast
 - Run terminal as **Administrator**
 
 ---
+### Clone the Repo
+git clone https://github.com/AJITH10000/terraform-docker-container.git
+cd terraform-docker-container
 
 ###  Step-by-Step Commands
 
